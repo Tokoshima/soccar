@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvqgiuo4gjtm2"
+path="res://.godot/imported/debris-bolt.obj-ada4f96bc2418d0838c37b2698178b9f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/debris-bolt.obj-ada4f96bc2418d0838c37b2698178b9f.mesh"]
+
+source_file="res://assets/kenney_car-kit/Models/OBJ format/debris-bolt.obj"
+dest_files=["res://.godot/imported/debris-bolt.obj-ada4f96bc2418d0838c37b2698178b9f.mesh", "res://.godot/imported/debris-bolt.obj-ada4f96bc2418d0838c37b2698178b9f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

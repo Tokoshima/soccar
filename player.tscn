@@ -1,0 +1,23 @@
+[gd_scene load_steps=3 format=3 uid="uid://uejrowxw27ru"]
+
+[ext_resource type="PackedScene" uid="uid://bes8f005f0poo" path="res://assets/kenney_car-kit/Models/GLB format/ambulance.glb" id="1_rlthh"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_v6w0j"]
+size = Vector3(1.31955, 1.81187, 3.23755)
+
+[node name="CharacterBody3D" type="CharacterBody3D"]
+
+[node name="Pivot" type="Node3D" parent="."]
+
+[node name="Character" parent="Pivot" instance=ExtResource("1_rlthh")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0128388, 0.924032, -0.00256097)
+shape = SubResource("BoxShape3D_v6w0j")
+
+[node name="CameraPivot" type="Marker3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.821149, -0.570714, 0, 0.570714, 0.821149, 0, 0, 0)
+
+[node name="Camera3D" type="Camera3D" parent="CameraPivot"]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 2.98023e-08, 8.74228e-08, 2.98023e-08, -1, 0, 3.11373, -7.01417)
+current = true

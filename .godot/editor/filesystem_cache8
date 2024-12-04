@@ -1,0 +1,208 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1733302393
+export_presets.cfg::TextFile::-1::1733134300::0::1::::<><>::
+football.res::ArrayMesh::8265214388641065559::1733141002::0::1::::<><>::
+icon.svg::CompressedTexture2D::6524495186738106981::1733131133::1733140999::1::::<><>::
+main.tscn::PackedScene::7367778801033810908::1733217710::0::1::::<><>::uid://uejrowxw27ru::::res://player.tscn<>res://player.gd<>uid://b0p1d6oeqcead::::res://assets/Football_ball.blend
+player.gd::GDScript::-1::1733217691::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::1412611965596280302::1733217711::0::1::::<><>::uid://bes8f005f0poo::::res://assets/kenney_car-kit/Models/GLB format/ambulance.glb
+README.md::TextFile::-1::1733140544::0::1::::<><>::
+::res://assets/::1733141002
+football.res::ArrayMesh::5274931352338320328::1733138115::0::1::::<><>::
+Football_ball.blend::PackedScene::4173693090202772643::1733137942::1733141002::1::::<><>::uid://dp0y4xw25n7ff::::res://football.res
+::res://assets/kenney_car-kit/::1733140999
+football.res::ArrayMesh::1174668627761642209::1733138056::0::1::::<><>::
+License.txt::TextFile::-1::1714554815::0::1::::<><>::
+Preview.png::CompressedTexture2D::2784027368836741869::1714554835::1733140999::1::::<><>::
+::res://assets/kenney_car-kit/Models/::1714554815
+::res://assets/kenney_car-kit/Models/FBX format/::1733141005
+ambulance.fbx::PackedScene::2332914082805010000::1714554817::1733141002::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+box.fbx::PackedScene::1171159525837872859::1714554817::1733141002::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+cone-flat.fbx::PackedScene::8193072260260445735::1714554817::1733141002::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+cone.fbx::PackedScene::2310174441037792563::1714554817::1733141002::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-bolt.fbx::PackedScene::2577513983783438867::1714554817::1733141002::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-bumper.fbx::PackedScene::2949569318602282783::1714554817::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-door-window.fbx::PackedScene::6930407128860504239::1714554817::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-door.fbx::PackedScene::1479995452040595185::1714554817::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-drivetrain-axle.fbx::PackedScene::5143596559647132521::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-drivetrain.fbx::PackedScene::5339307204761679151::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-nut.fbx::PackedScene::5120329104816111221::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-plate-a.fbx::PackedScene::7691499817730142602::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-plate-b.fbx::PackedScene::5226621797579705676::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-plate-small-a.fbx::PackedScene::2296097977093564757::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-plate-small-b.fbx::PackedScene::4004430755455865701::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-spoiler-a.fbx::PackedScene::2199596317692941489::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-spoiler-b.fbx::PackedScene::4256015953784196224::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+debris-tire.fbx::PackedScene::1978417343620288940::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+delivery-flat.fbx::PackedScene::113799188052065292::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+delivery.fbx::PackedScene::8488203653056000023::1714554818::1733141003::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+firetruck.fbx::PackedScene::6405701441101672395::1714554818::1733141004::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+garbage-truck.fbx::PackedScene::5888708143919637552::1714554818::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+hatchback-sports.fbx::PackedScene::3958789094963354911::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+police.fbx::PackedScene::169969300778004962::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+race-future.fbx::PackedScene::728669686676763529::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+race.fbx::PackedScene::944151605663833557::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+sedan-sports.fbx::PackedScene::518483208053951589::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+sedan.fbx::PackedScene::736397144293720704::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+suv-luxury.fbx::PackedScene::1016651143983884004::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+suv.fbx::PackedScene::4687644910413501488::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+taxi.fbx::PackedScene::8178846939654267651::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+tractor-police.fbx::PackedScene::5720781990017153295::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+tractor-shovel.fbx::PackedScene::6196296885799056457::1714554820::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+tractor.fbx::PackedScene::1782376100490249598::1714554819::1733141000::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+truck-flat.fbx::PackedScene::9074586545294321133::1714554820::1733141001::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+truck.fbx::PackedScene::852972006347883508::1714554820::1733141001::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+van.fbx::PackedScene::4496413984793995706::1714554820::1733141001::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+wheel-dark.fbx::PackedScene::7752097728204589383::1714554820::1733141001::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+wheel-default.fbx::PackedScene::7844666584731728775::1714554820::1733141001::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+wheel-racing.fbx::PackedScene::4072562329130807901::1714554820::1733141001::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+wheel-tractor-back.fbx::PackedScene::1899162926038589950::1714554820::1733141001::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+wheel-tractor-dark-back.fbx::PackedScene::6825095632402380184::1714554820::1733141001::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+wheel-tractor-dark-front.fbx::PackedScene::3758279889929743463::1714554820::1733141001::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+wheel-tractor-front.fbx::PackedScene::1972649016450772574::1714554820::1733141005::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+wheel-truck.fbx::PackedScene::3881965057128441369::1714554820::1733141005::1::::<><>::uid://dhblcaok3k1s7::::res://assets/kenney_car-kit/Models/FBX format/Textures/colormap.png
+::res://assets/kenney_car-kit/Models/FBX format/Textures/::1733140999
+colormap.png::CompressedTexture2D::7653319814927287740::1714554835::1733140999::1::::<><>::
+::res://assets/kenney_car-kit/Models/GLB format/::1733141007
+ambulance.glb::PackedScene::2706348800623733182::1714554817::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+box.glb::PackedScene::218495184114389225::1714554817::1733141001::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+cone-flat.glb::PackedScene::2487330376730278251::1714554817::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+cone.glb::PackedScene::1264412311095021231::1714554817::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-bolt.glb::PackedScene::2028286976523040358::1714554817::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-bumper.glb::PackedScene::7763237020157683297::1714554817::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-door-window.glb::PackedScene::3350615910596528286::1714554817::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-door.glb::PackedScene::3989029816679567040::1714554817::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-drivetrain-axle.glb::PackedScene::5566175211871922832::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-drivetrain.glb::PackedScene::9052470145527007125::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-nut.glb::PackedScene::705423017770295259::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-plate-a.glb::PackedScene::4281903980222623361::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-plate-b.glb::PackedScene::5477252842013014187::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-plate-small-a.glb::PackedScene::2185592347260207875::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-plate-small-b.glb::PackedScene::8253522987127305536::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-spoiler-a.glb::PackedScene::2196072037116064106::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-spoiler-b.glb::PackedScene::656215137297462934::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+debris-tire.glb::PackedScene::670058464205940858::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+delivery-flat.glb::PackedScene::5752149873126217154::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+delivery.glb::PackedScene::2867621101890462336::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+firetruck.glb::PackedScene::5574138254284389533::1714554818::1733141006::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+garbage-truck.glb::PackedScene::5998585228984998401::1714554818::1733141007::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+hatchback-sports.glb::PackedScene::6460423408018610892::1714554819::1733141007::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+police.glb::PackedScene::2453350310144835656::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+race-future.glb::PackedScene::9025348765433101074::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+race.glb::PackedScene::8824260719362480165::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+sedan-sports.glb::PackedScene::3235876028713454607::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+sedan.glb::PackedScene::5491893785445242339::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+suv-luxury.glb::PackedScene::7451809394219377164::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+suv.glb::PackedScene::1906878460836552742::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+taxi.glb::PackedScene::5070620656650278384::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+tractor-police.glb::PackedScene::1985812980257648279::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+tractor-shovel.glb::PackedScene::5918303867769614989::1714554820::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+tractor.glb::PackedScene::1903063298458261541::1714554819::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+truck-flat.glb::PackedScene::7393194208654366283::1714554820::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+truck.glb::PackedScene::9210991798189630735::1714554820::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+van.glb::PackedScene::5781910413872873850::1714554820::1733141004::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+wheel-dark.glb::PackedScene::2106306891306981749::1714554820::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+wheel-default.glb::PackedScene::5496803868762404639::1714554820::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+wheel-racing.glb::PackedScene::5440854291051028688::1714554820::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+wheel-tractor-back.glb::PackedScene::8992591267957107940::1714554820::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+wheel-tractor-dark-back.glb::PackedScene::2342694384284927474::1714554820::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+wheel-tractor-dark-front.glb::PackedScene::8649980762441150008::1714554820::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+wheel-tractor-front.glb::PackedScene::5472214619793555474::1714554820::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+wheel-truck.glb::PackedScene::8962698543647067473::1714554820::1733141005::1::::<><>::uid://byvuojuf2h5w6::::res://assets/kenney_car-kit/Models/GLB format/Textures/colormap.png
+::res://assets/kenney_car-kit/Models/GLB format/Textures/::1733140999
+colormap.png::CompressedTexture2D::4115544708680939787::1714554835::1733140999::1::::<><>::
+::res://assets/kenney_car-kit/Models/OBJ format/::1733141000
+ambulance.obj::Mesh::5251817954441277658::1714554817::1733141000::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+box.obj::Mesh::2128986145334867936::1714554817::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+cone-flat.obj::Mesh::2180576913083404496::1714554817::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+cone.obj::Mesh::876047174877071308::1714554817::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-bolt.obj::Mesh::8666637473271063751::1714554817::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-bumper.obj::Mesh::6412904625475971264::1714554817::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-door-window.obj::Mesh::3370945073644884507::1714554817::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-door.obj::Mesh::4523199562779002778::1714554817::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-drivetrain-axle.obj::Mesh::6960243907896142286::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-drivetrain.obj::Mesh::8867524457197025686::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-nut.obj::Mesh::5561676315609353432::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-plate-a.obj::Mesh::4640058438344980751::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-plate-b.obj::Mesh::7381860951502934204::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-plate-small-a.obj::Mesh::3044602807669342812::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-plate-small-b.obj::Mesh::1991661867337175609::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-spoiler-a.obj::Mesh::7917297207026050463::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-spoiler-b.obj::Mesh::9176634558779312385::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+debris-tire.obj::Mesh::6706178310578065651::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+delivery-flat.obj::Mesh::5315522835464000167::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+delivery.obj::Mesh::4203673036252506705::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+firetruck.obj::Mesh::9211887775016020972::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+garbage-truck.obj::Mesh::5442202635051683052::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+hatchback-sports.obj::Mesh::4176797319749794144::1714554818::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+police.obj::Mesh::461103498490379738::1714554819::1733141000::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+race-future.obj::Mesh::3676286291048455833::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+race.obj::Mesh::4699274010020394144::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+sedan-sports.obj::Mesh::3251216637672907652::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+sedan.obj::Mesh::5301687727632072822::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+suv-luxury.obj::Mesh::7629479002964932034::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+suv.obj::Mesh::760292067792249011::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+taxi.obj::Mesh::6053040395585358409::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+tractor-police.obj::Mesh::6581674538845024202::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+tractor-shovel.obj::Mesh::4342757223538032347::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+tractor.obj::Mesh::3933851689736197608::1714554819::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+truck-flat.obj::Mesh::5631953081332247887::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+truck.obj::Mesh::2892407387030340449::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+van.obj::Mesh::425629086614635975::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+wheel-dark.obj::Mesh::4350906627295949706::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+wheel-default.obj::Mesh::8770661495516221595::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+wheel-racing.obj::Mesh::4477006741398812081::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+wheel-tractor-back.obj::Mesh::2710581630848053865::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+wheel-tractor-dark-back.obj::Mesh::865934733708581907::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+wheel-tractor-dark-front.obj::Mesh::8071133775592062591::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+wheel-tractor-front.obj::Mesh::1349744879491295244::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+wheel-truck.obj::Mesh::3802859427080194580::1714554820::1733140999::1::::<><>::uid://n45sfcfy1lyt::::res://assets/kenney_car-kit/Models/OBJ format/Textures/colormap.png
+::res://assets/kenney_car-kit/Models/OBJ format/Textures/::1733140999
+colormap.png::CompressedTexture2D::974175842202080735::1714554835::1733140999::1::::<><>::
+::res://assets/kenney_car-kit/Models/Textures/::1714554815
+::res://assets/kenney_car-kit/Previews/::1733140999
+ambulance.png::CompressedTexture2D::4345053580130015952::1714554835::1733140999::1::::<><>::
+box.png::CompressedTexture2D::2100416817728389680::1714554835::1733140999::1::::<><>::
+cone-flat.png::CompressedTexture2D::5760160577551077628::1714554835::1733140999::1::::<><>::
+cone.png::CompressedTexture2D::5008234497914469506::1714554835::1733140999::1::::<><>::
+debris-bolt.png::CompressedTexture2D::4050869340692512819::1714554835::1733140999::1::::<><>::
+debris-bumper.png::CompressedTexture2D::7887226999505161872::1714554835::1733140999::1::::<><>::
+debris-door-window.png::CompressedTexture2D::8524413099120790835::1714554835::1733140999::1::::<><>::
+debris-door.png::CompressedTexture2D::5766257081081601658::1714554835::1733140999::1::::<><>::
+debris-drivetrain-axle.png::CompressedTexture2D::3270940315642539334::1714554835::1733140999::1::::<><>::
+debris-drivetrain.png::CompressedTexture2D::7918267557244764147::1714554835::1733140999::1::::<><>::
+debris-nut.png::CompressedTexture2D::4343910316184707070::1714554835::1733140999::1::::<><>::
+debris-plate-a.png::CompressedTexture2D::2827213662458971555::1714554835::1733140999::1::::<><>::
+debris-plate-b.png::CompressedTexture2D::5469453559925797497::1714554835::1733140999::1::::<><>::
+debris-plate-small-a.png::CompressedTexture2D::8115237355372640581::1714554835::1733140999::1::::<><>::
+debris-plate-small-b.png::CompressedTexture2D::3844527469579084411::1714554835::1733140999::1::::<><>::
+debris-spoiler-a.png::CompressedTexture2D::6123905996410466964::1714554835::1733140999::1::::<><>::
+debris-spoiler-b.png::CompressedTexture2D::7266215650755389428::1714554835::1733140999::1::::<><>::
+debris-tire.png::CompressedTexture2D::4491654567820256543::1714554835::1733140999::1::::<><>::
+delivery-flat.png::CompressedTexture2D::3150588503423930872::1714554835::1733140999::1::::<><>::
+delivery.png::CompressedTexture2D::9150365309044401754::1714554835::1733140999::1::::<><>::
+firetruck.png::CompressedTexture2D::3190395551597014006::1714554835::1733140999::1::::<><>::
+garbage-truck.png::CompressedTexture2D::8171891844647642988::1714554835::1733140999::1::::<><>::
+hatchback-sports.png::CompressedTexture2D::3399577839945512076::1714554835::1733140999::1::::<><>::
+police.png::CompressedTexture2D::3318355546124570256::1714554835::1733140999::1::::<><>::
+race-future.png::CompressedTexture2D::7960175279379252715::1714554835::1733140999::1::::<><>::
+race.png::CompressedTexture2D::2579998079423320388::1714554835::1733140999::1::::<><>::
+sedan-sports.png::CompressedTexture2D::3204675493815002445::1714554835::1733140999::1::::<><>::
+sedan.png::CompressedTexture2D::4794247395866426095::1714554835::1733140999::1::::<><>::
+suv-luxury.png::CompressedTexture2D::5609495298530611091::1714554835::1733140999::1::::<><>::
+suv.png::CompressedTexture2D::5248899334666348916::1714554835::1733140999::1::::<><>::
+taxi.png::CompressedTexture2D::665173012242301168::1714554835::1733140999::1::::<><>::
+tractor-police.png::CompressedTexture2D::2224604626610221870::1714554835::1733140999::1::::<><>::
+tractor-shovel.png::CompressedTexture2D::6115423000945453682::1714554835::1733140999::1::::<><>::
+tractor.png::CompressedTexture2D::4415224215271947079::1714554835::1733140999::1::::<><>::
+truck-flat.png::CompressedTexture2D::6645882803518370903::1714554835::1733140999::1::::<><>::
+truck.png::CompressedTexture2D::4101062239415014354::1714554835::1733140999::1::::<><>::
+van.png::CompressedTexture2D::2749688853881490091::1714554835::1733140999::1::::<><>::
+wheel-dark.png::CompressedTexture2D::7691851545607042980::1714554835::1733140999::1::::<><>::
+wheel-default.png::CompressedTexture2D::1301206122399313165::1714554835::1733140999::1::::<><>::
+wheel-racing.png::CompressedTexture2D::9049956134798560993::1714554835::1733140999::1::::<><>::
+wheel-tractor-back.png::CompressedTexture2D::9079921937021382964::1714554835::1733140999::1::::<><>::
+wheel-tractor-dark-back.png::CompressedTexture2D::4953734539185666444::1714554835::1733140999::1::::<><>::
+wheel-tractor-dark-front.png::CompressedTexture2D::3710674948564868100::1714554835::1733140999::1::::<><>::
+wheel-tractor-front.png::CompressedTexture2D::4299893682899864610::1714554835::1733140999::1::::<><>::
+wheel-truck.png::CompressedTexture2D::3100197072395260661::1714554835::1733140999::1::::<><>::

@@ -19,7 +19,7 @@ size = Vector3(60, 20, 1)
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_bgc5x"]
 resource_local_to_scene = true
 friction = 0.93
-bounce = 0.44
+bounce = 1.0
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_f6i6s"]
 
@@ -89,6 +89,8 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0815535, 9.76375, 29.8858)
 shape = SubResource("BoxShape3D_xceb1")
 
 [node name="Football" type="RigidBody3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.13808, 0)
+mass = 3.268
 physics_material_override = SubResource("PhysicsMaterial_bgc5x")
 
 [node name="Football_ball" parent="Football" instance=ExtResource("3_8x01b")]

@@ -1,3 +1,10 @@
+res://vehicles/meshes/truck_trailer.res
+res://vehicles/meshes/truck_cab.res
+res://vehicles/meshes/wheel.res
+res://vehicles/meshes/tow_truck.res
+res://vehicles/meshes/minivan.res
 res://main.tscn
 res://player.tscn
-res://player.gd
+res://body.tscn
+res://vehicles/car_base.tscn
+res://vehicles/vehicle.gd

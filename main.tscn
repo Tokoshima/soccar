@@ -1,7 +1,6 @@
-[gd_scene load_steps=10 format=3 uid="uid://dc8aif57vi67q"]
+[gd_scene load_steps=9 format=3 uid="uid://dc8aif57vi67q"]
 
-[ext_resource type="PackedScene" uid="uid://uejrowxw27ru" path="res://player.tscn" id="1_nfac6"]
-[ext_resource type="Script" path="res://player.gd" id="2_toedx"]
+[ext_resource type="PackedScene" uid="uid://cukitfa5ppp77" path="res://assets/body.tscn" id="2_21hqw"]
 [ext_resource type="PackedScene" uid="uid://b0p1d6oeqcead" path="res://assets/Football_ball.blend" id="3_8x01b"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_jmpjy"]
@@ -37,10 +36,6 @@ mesh = SubResource("BoxMesh_57hiq")
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
 transform = Transform3D(-0.0463977, 0.983957, -0.172268, 0.255894, 0.178407, 0.9501, 0.965591, 0, -0.260066, -18.3002, 26.0367, 0.561462)
 shadow_enabled = true
-
-[node name="CharacterBody3D" parent="." instance=ExtResource("1_nfac6")]
-transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 0.5, 26.1917)
-script = ExtResource("2_toedx")
 
 [node name="Walls" type="Node3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.2, 0)
@@ -99,3 +94,6 @@ transform = Transform3D(4, 0, 0, 0, 4, 0, 0, 0, 4, 0, 0.621073, 0)
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Football"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.01199, 0)
 shape = SubResource("SphereShape3D_f6i6s")
+
+[node name="Body" parent="." instance=ExtResource("2_21hqw")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00169557, 3.13543, -21.2565)

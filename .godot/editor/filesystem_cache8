@@ -1,13 +1,15 @@
 fc8a56933c4b1c8d796fdb8f7a9f9475
-::res://::1733302393
+::res://::1733565872
+body.tscn::PackedScene::-1::1733357500::0::1::::<><>::
 export_presets.cfg::TextFile::-1::1733134300::0::1::::<><>::
 football.res::ArrayMesh::8265214388641065559::1733141002::0::1::::<><>::
 icon.svg::CompressedTexture2D::6524495186738106981::1733131133::1733140999::1::::<><>::
-main.tscn::PackedScene::7367778801033810908::1733217710::0::1::::<><>::uid://uejrowxw27ru::::res://player.tscn<>res://player.gd<>uid://b0p1d6oeqcead::::res://assets/Football_ball.blend
-player.gd::GDScript::-1::1733217691::0::1::::<>CharacterBody3D<>::
-player.tscn::PackedScene::1412611965596280302::1733217711::0::1::::<><>::uid://bes8f005f0poo::::res://assets/kenney_car-kit/Models/GLB format/ambulance.glb
+main.tscn::PackedScene::7367778801033810908::1733504485::0::1::::<><>::uid://uejrowxw27ru::::res://player.tscn<>res://player.gd<>uid://b0p1d6oeqcead::::res://assets/Football_ball.blend
+player.gd::GDScript::-1::1733357406::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::1412611965596280302::1733504485::0::1::::<><>::uid://bes8f005f0poo::::res://assets/kenney_car-kit/Models/GLB format/ambulance.glb
 README.md::TextFile::-1::1733140544::0::1::::<><>::
-::res://assets/::1733141002
+::res://assets/::1733357520
+body.tscn::PackedScene::6197781947714238788::1733357500::0::1::::<><>::res://vehicles/vehicle.gd<>uid://bqrwin8ccgptt::::res://vehicles/meshes/wheel.res<>uid://b2xi556mwp7ue::::res://vehicles/meshes/minivan.res<>res://vehicles/follow_camera.gd<>uid://cb7wvsd6vygd3::::res://vehicles/engine.wav<>uid://sy2li7u35867::::res://vehicles/impact_1.wav<>uid://bf0h7s81yr8nj::::res://vehicles/impact_2.wav<>uid://sun2n8a4xapl::::res://vehicles/impact_3.wav<>uid://dpbayeeufya21::::res://vehicles/impact_4.wav<>uid://d4ostmqwgytk::::res://vehicles/particle_smoke.png<>uid://bju75l2w3r7vq::::res://vehicles/blob_shadow.png
 football.res::ArrayMesh::5274931352338320328::1733138115::0::1::::<><>::
 Football_ball.blend::PackedScene::4173693090202772643::1733137942::1733141002::1::::<><>::uid://dp0y4xw25n7ff::::res://football.res
 ::res://assets/kenney_car-kit/::1733140999
@@ -206,3 +208,25 @@ wheel-tractor-dark-back.png::CompressedTexture2D::4953734539185666444::171455483
 wheel-tractor-dark-front.png::CompressedTexture2D::3710674948564868100::1714554835::1733140999::1::::<><>::
 wheel-tractor-front.png::CompressedTexture2D::4299893682899864610::1714554835::1733140999::1::::<><>::
 wheel-truck.png::CompressedTexture2D::3100197072395260661::1714554835::1733140999::1::::<><>::
+::res://vehicles/::1733357267
+blob_shadow.png::CompressedTexture2D::3061404969606535202::1731871795::1733565879::1::::<><>::
+car_base.tscn::PackedScene::6639054641309143335::1733357267::0::1::::<><>::res://vehicles/vehicle.gd<>uid://d4ostmqwgytk::::res://vehicles/particle_smoke.png<>uid://bqrwin8ccgptt::::res://vehicles/meshes/wheel.res<>uid://b2xi556mwp7ue::::res://vehicles/meshes/minivan.res<>res://vehicles/follow_camera.gd<>uid://cb7wvsd6vygd3::::res://vehicles/engine.wav<>uid://sy2li7u35867::::res://vehicles/impact_1.wav<>uid://bf0h7s81yr8nj::::res://vehicles/impact_2.wav<>uid://sun2n8a4xapl::::res://vehicles/impact_3.wav<>uid://dpbayeeufya21::::res://vehicles/impact_4.wav<>uid://bju75l2w3r7vq::::res://vehicles/blob_shadow.png
+engine.wav::AudioStreamWAV::4910464526159239754::1731871795::1733565880::1::::<><>::
+follow_camera.gd::GDScript::-1::1731871795::0::1::::<>Camera3D<>::
+impact_1.wav::AudioStreamWAV::1314603724687552626::1731871795::1733565880::1::::<><>::
+impact_2.wav::AudioStreamWAV::2789457507702027471::1731871795::1733565880::1::::<><>::
+impact_3.wav::AudioStreamWAV::1305525011728930513::1731871795::1733565880::1::::<><>::
+impact_4.wav::AudioStreamWAV::8214202159646518848::1731871795::1733565880::1::::<><>::
+particle_smoke.png::CompressedTexture2D::271316685208785408::1731871796::1733565879::1::::<><>::
+tow_truck.tscn::PackedScene::2945802589605193517::1731871796::0::1::::<><>::res://vehicles/vehicle.gd<>uid://bqrwin8ccgptt::::res://vehicles/meshes/wheel.res<>uid://cbpqxxd14g8un::::res://vehicles/meshes/tow_truck.res<>res://vehicles/follow_camera.gd<>uid://ctglc27jx8xe2::::res://vehicles/meshes/truck_cab.res<>uid://cb7wvsd6vygd3::::res://vehicles/engine.wav<>uid://sy2li7u35867::::res://vehicles/impact_1.wav<>uid://bf0h7s81yr8nj::::res://vehicles/impact_2.wav<>uid://sun2n8a4xapl::::res://vehicles/impact_3.wav<>uid://dpbayeeufya21::::res://vehicles/impact_4.wav<>uid://d4ostmqwgytk::::res://vehicles/particle_smoke.png<>uid://bju75l2w3r7vq::::res://vehicles/blob_shadow.png
+trailer_truck.tscn::PackedScene::8369804417720244340::1731871796::0::1::::<><>::res://vehicles/vehicle.gd<>uid://bqrwin8ccgptt::::res://vehicles/meshes/wheel.res<>uid://ctglc27jx8xe2::::res://vehicles/meshes/truck_cab.res<>res://vehicles/follow_camera.gd<>uid://sy2li7u35867::::res://vehicles/impact_1.wav<>uid://cb7wvsd6vygd3::::res://vehicles/engine.wav<>uid://bf0h7s81yr8nj::::res://vehicles/impact_2.wav<>uid://sun2n8a4xapl::::res://vehicles/impact_3.wav<>uid://dpbayeeufya21::::res://vehicles/impact_4.wav<>uid://d4ostmqwgytk::::res://vehicles/particle_smoke.png<>uid://bju75l2w3r7vq::::res://vehicles/blob_shadow.png<>uid://dyg750wqca86r::::res://vehicles/truck_trailer.tres
+truck_trailer.png::CompressedTexture2D::1190334386377021965::1731871796::1733565879::1::::<><>::
+truck_trailer.tres::StandardMaterial3D::8858178430301242195::1731871796::0::1::::<><>::uid://q7uvsiqefkwr::::res://vehicles/truck_trailer.png
+vehicle.gd::GDScript::-1::1733357266::0::1::::<>VehicleBody3D<>::
+::res://vehicles/meshes/::1733349194
+meshes.glb::PackedScene::349391053548130180::1731871795::1733565881::1::::<><>::uid://d0n61oj27qnya::::res://vehicles/meshes/truck_trailer.res<>uid://ctglc27jx8xe2::::res://vehicles/meshes/truck_cab.res<>uid://bqrwin8ccgptt::::res://vehicles/meshes/wheel.res<>uid://cbpqxxd14g8un::::res://vehicles/meshes/tow_truck.res<>uid://b2xi556mwp7ue::::res://vehicles/meshes/minivan.res
+minivan.res::ArrayMesh::4329541084187321796::1733565880::0::1::::<><>::
+tow_truck.res::ArrayMesh::4875009636371023161::1733565880::0::1::::<><>::
+truck_cab.res::ArrayMesh::6119488589546590487::1733565880::0::1::::<><>::
+truck_trailer.res::ArrayMesh::8942749460750483204::1733565880::0::1::::<><>::uid://dyg750wqca86r::::res://vehicles/truck_trailer.tres
+wheel.res::ArrayMesh::3545887397788631717::1733565880::0::1::::<><>::
